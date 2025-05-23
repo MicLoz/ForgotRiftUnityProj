@@ -1,0 +1,4 @@
+repository "ForgotRiftUnityProj/ForgotRiftUnityProj@5772812730237@cloud"
+  path "/"
+    br "/main"
+    co "/main"
